@@ -4,7 +4,7 @@ Welcome to the Flickr Gallery application.
 This app is simple, you write a tag at the top and you get images from flickr with that tag.
 
 ## Before Starting the Test
-Please make sure you've read the job description - [Student Software Developer](https://www.wix.com/jobs/locations/tel-aviv/positions/2467) and that you are indeed interested in this position and all its terms (we don't want you work on a test for the wrong job).
+Please make sure you've read the job description - [Student Software Developer](https://www.wix.com/jobs/locations/tel-aviv/positions/2467) and that you are indeed interested in this position and all its terms.
 
 ## Getting Started
 To set up the test environment and get this app running locally all you need to do is:
