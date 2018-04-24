@@ -8,8 +8,8 @@ Please make sure you've read the job description - [Student Software Developer](
 
 ## Getting Started
 To set up the test environment and get this app running locally all you need to do is:
-1. Create a new [Bitbucket](bitbucket.org) account
-2. Create a new private repository in Bitbucket - use the import repository option, use this repo URL https://github.com/wix-incubator/flickr-gallery-exam
+1. Make sure you have a [Gitlab](https://gitlab.org) account
+2. Create a new private repository in Gitlab - use the import repository option, use this repo URL https://github.com/wix-incubator/flickr-gallery-exam
 3. In the created folder install the node modules `npm install`
 4. Run the app `npm start`
 5. Your local app should be available at `http://localhost:8000`
@@ -46,7 +46,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 ## Submitting your project
 After you've completed your tasks, and you are ready to submit it, do the following:
 1. Make sure all the code is committed and pushed
-2. Add "students-fed-exam@wix.com" as an user to the repo
+2. Add "gabrielg@wix.com" as an user to the repo
 3. Send us an email with your repo link
 4. Profit!
 
