@@ -9,10 +9,11 @@ Please make sure you've read the job description - [Student Software Developer](
 ## Getting Started
 To set up the test environment and get this app running locally all you need to do is:
 1. Make sure you have a [Gitlab](https://gitlab.org) account
-2. Create a new private repository in Gitlab - use the import repository option, use this repo URL https://github.com/wix-incubator/flickr-gallery-exam
-3. In the created folder install the node modules `npm install`
-4. Run the app `npm start`
-5. Your local app should be available at `http://localhost:8000`
+2. [Import this repository](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) to your Gitlab account as a private repository. Use this as the import URL: https://github.com/wix-incubator/flickr-gallery-exam
+3. Clone your newly created repository
+4. In the created folder install the node modules `npm install`
+5. Run the app `npm start`
+6. Your local app should be available at `http://localhost:8000`
 
 ## Your Tasks
 This project includes several tasks for different skill levels. You may try completing them all but if you are new to web development, complete the tasks that are a bit above your level.
@@ -37,7 +38,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ## Tips / Notes
 - All the code you'll change / add will be in the `/src/components` folder.
-- You don't need to complete all tasks. If you are new to web development, finish only the easy tasks. If you have the required skills, try to complete the intermediate and hard tasks too.
+- You don't need to complete all tasks. If you are new to web development, finish only the easy tasks. If you have the required skills, try to complete the bonus tasks too.
 - If possible, write tests for every new feature you write (tests are written in spec.js files)
 - Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video, or even the exacts tasks. **be creative, creative is good**.
 
@@ -49,7 +50,6 @@ After you've completed your tasks, and you are ready to submit it, do the follow
 2. Add "gabrielg@wix.com" as an user to the repo
 3. Send us an email with your repo link
 4. Profit!
-
 
 ## Good Luck!
 ![Break a leg](https://media0.giphy.com/media/aHs1EAnUAxYgU/giphy.gif)
