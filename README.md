@@ -38,7 +38,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ## Tips / Notes
 - All the code you'll change / add will be in the `/src/components` folder.
-- You don't need to complete all tasks. If you are new to web development, finish only the easy tasks. If you have the required skills, try to complete the bonus tasks too.
+- You don't need to complete all tasks. If you are new to web development, you may skip the bonus questions. If you have the required skills, you should complete the bonus tasks too.
 - If possible, write tests for every new feature you write (tests are written in spec.js files)
 - Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video, or even the exacts tasks. **be creative, creative is good**.
 - You can view a working example of the gallery [here](https://youtu.be/8rgufa8l0c4)
