@@ -48,7 +48,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 ## Submitting your project
 After you've completed your tasks, and you are ready to submit it, do the following:
 1. Make sure all the code is committed and pushed
-2. Add "gabrielg@wix.com" as an user to the repo
+2. Add "gabrielg@wix.com" as an user to the repo (Master permission)
 3. Send us an email with your repo link
 4. Profit!
 
