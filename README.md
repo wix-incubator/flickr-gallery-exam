@@ -31,7 +31,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ### Task 2 - Gallery Actions
 1. Responsive:  the gallery adjusts the size of each image so that all the images will fit into the screen without margin. However, when the window is resized, the images are not fitted so well. Make sure the images are always adjusted to the window width.
-2. Infinite Scroll: currently the gallery displays only 100 images. Create a mechanism that loads more images from flickr when the user is scrolling past the last image.
+2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. 
 
 #### Bonus:
 3. Drag & Drop: let your users choose the order of the images by adding an option to drag & drop images to their new position.
@@ -42,6 +42,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 - If possible, write tests for every new feature you write (tests are written in spec.js files)
 - Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video, or even the exacts tasks. **be creative, creative is good**.
 - You can view a working example of the gallery [here](https://youtu.be/8rgufa8l0c4)
+- The infinite scroll mechanism should not be imported via NPM. You should do it yourself. If you want to use `npm` modules for other parts, your choice - just make sure you know how they work under the hood.
 
 #### Remember: this test is designed to see how you complete tasks that require self learning, not to test your existing knowledge.
 
