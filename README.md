@@ -16,8 +16,8 @@ To set up the test environment and get this app running locally all you need to 
 6. Your local app should be available at `http://localhost:8000`
 
 ## Your Tasks
-This project includes several tasks for different skill levels. You may try completing them all but if you are new to web development, complete the tasks that are a bit above your level.
-You can and should learn new skills during the process, you may consult with Google and friends but you will need to explain why you implemented what you implemented, so be responsible for your code.
+This project includes 2 main tasks. The first 2 parts of each task are mandatory and there is a bonus part for each.
+You can and should learn new skills during the process, you may consult with Google and friends but you will need to explain why you implemented what you implemented, so be responsible for your code. 
 *Important:* please make sure to commit after each task - for example, after finishing task 1 delete, commmit the files with a relevant message: "task 1 - delete image", and so on.
 
 
@@ -31,16 +31,15 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 
 ### Task 2 - Gallery Actions
 1. Responsive:  the gallery adjusts the size of each image so that all the images will fit into the screen without margin. However, when the window is resized, the images are not fitted so well. Make sure the images are always adjusted to the window width.
-2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image. 
+2. Infinite Scroll: currently the gallery displays only 100 images. *Create* a mechanism that loads more images from flickr when the user is scrolling past the last image.
 
 #### Bonus:
 3. Drag & Drop: let your users choose the order of the images by adding an option to drag & drop images to their new position.
 
 ## Tips / Notes
 - All the code you'll change / add will be in the `/src/components` folder.
-- You don't need to complete all tasks. If you are new to web development, you may skip the bonus questions. If you have the required skills, you should complete the bonus tasks too.
-- If possible, write tests for every new feature you write (tests are written in spec.js files)
-- Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video, or even the exacts tasks. **be creative, creative is good**.
+- If you are new to web development, you may skip the bonus questions. If you have the required skills, you should complete the bonus tasks too.
+- Think about the product you create, try inovating the user interface, you don't have to create the exact solution as it is in the video. Take it to the next level by customizing the looks and adding new features! **be creative, creative is good**.
 - You can view a working example of the gallery [here](https://youtu.be/8rgufa8l0c4)
 - The infinite scroll mechanism should not be imported via NPM. You should do it yourself. If you want to use `npm` modules for other parts, your choice - just make sure you know how they work under the hood.
 
